@@ -40,3 +40,8 @@ span:hover{
   color: red;
 }
 
+img{
+  float: right;
+  width: 260px;
+  margin-left: 20px;
+}
