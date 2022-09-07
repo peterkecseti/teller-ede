@@ -26,7 +26,7 @@ h1 {
 }
 
 table {
-  width: 50%;
+  width: 100%;
   margin: auto;
 }
 
@@ -45,3 +45,20 @@ img{
   width: 260px;
   margin-left: 20px;
 }
+
+.tableDataCell{
+vertical-align: middle;
+border-bottom: 1px solid gray;
+
+}
+.tableHeaderCell{
+background-color: gray;
+color: white;
+text-align: center;
+}
+
+h1 a:hover {
+  text-decoration: none;
+  color: #007bff;
+}
+
